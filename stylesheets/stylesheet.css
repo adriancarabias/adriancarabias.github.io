@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: red;
+  background: black;
   color: lime;
   font: 16px;
   line-height: 1.5;
@@ -146,7 +146,7 @@ ul li:before {
 blockquote {
   color: #aaa;
   padding-left: 10px;
-  border-left: 1px dotted navy;
+  border-left: 1px dotted lime;
 }
 
 pre {
@@ -170,7 +170,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed navy;
+  border-bottom: 1px dashed lime;
   padding: 5px 10px;
 }
 
@@ -227,7 +227,7 @@ hr {
 */
 
 a {
-  color: navy;
+  color: red;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
